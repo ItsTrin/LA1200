@@ -12,7 +12,7 @@ Wir programmierten ein kleines Spiel, in dem man eine zufällige generierte Zahl
 
 ## Inhalt 1
 
-In einem Programm wie diesem, ist es wichtig, dass man mehrere Versuche hat, welche auch gezählz werden, um eine Zahl zu erraten. Für das braucht es eine Wiederholung. Dafür nutzt man Schleifen, ich habe mich dafür entschieden eine While Schleife zu verwennden. Die Schleife wiederholt sich solange, bis die Eingabe vom User nicht gleich wie die zufällige Zahl ist. Eigentlich würde das Programm abstürzen, wenn man etwas anderes als eine Zahl eingibt. Deshalb hab ich mich dazu entschieden einen Try-Catch block einzubauen. Dieser fängt alle Fehler sanft auf. Der Try-Catch Block gibt dann die Nachricht "Ihre Eingabe muss eine Zahl sein.". Danach wiederholt sich die Schleifen und man kann wieder raten.
+In einem Programm wie diesem, ist es wichtig, dass man mehrere Versuche hat, welche auch gezählz werden, um eine Zahl zu erraten. Für das braucht es eine Wiederholung. Dafür nutzt man Schleifen, ich habe mich dafür entschieden eine While Schleife zu verwennden. Die Schleife wiederholt sich solange, bis die Eingabe vom User nicht gleich wie die zufällige Zahl ist. Eigentlich würde das Program abstürzen, wenn man etwas anderes als eine Zahl eingibt. Deshalb hab ich mich dazu entschieden einen Try-Catch block einzubauen. Dieser fängt alle Fehler sanft auf. Der Try-Catch Block gibt dann die Nachricht "Ihre Eingabe muss eine Zahl sein.". Danach wiederholt sich die Schleifen und man kann wieder raten.
 
 ## Inhalt 2
 
